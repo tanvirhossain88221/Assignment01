@@ -1,0 +1,149 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+}
+.navli{
+    float: right;
+    margin-right: 50px;
+}
+nav ul li{
+    display: inline;
+    line-height: 80px;
+    margin: 0 20px;
+}
+nav ul li a{
+    color: black;
+    font-size: 18px;
+
+}
+/* nav bar end */
+p{
+    font-family: Roboto;
+    margin-bottom: 30px;
+    color: #3E3E3E;
+}
+h1,h2{
+    color: #363958;
+    font-size: 50px;
+}
+.topsection{
+    margin-bottom: 100px;
+}
+.abutton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    /* margin: 30px; */
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+/* .toppad{
+    margin-top: 50px; */
+
+.bottompad{
+    margin-top: 220px;
+}
+/* new section */
+.pblm{
+    overflow: auto;
+    padding-bottom: 100px;
+    padding-top: 50px;
+
+}
+.clrbg{
+    background-color: #F8F9FC; 
+    float: right;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.imgbox{
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+    margin-left: 6%;
+    /* padding-left: 2%; */
+    border: white solid 5px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 6px gray;
+    
+    
+}
+.img img{
+    width: 100%;
+}
+.description{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.title{margin-left: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+/* work inq */
+.wi{
+    
+    clear: both;
+    margin-bottom: 200px;
+    
+
+}
+.widiv{
+    background-image: url(img/Group_33094_1.png);
+    width: auto;
+    height: 200px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 10px;
+    background-position: center;
+}
+.widiv h1{
+    /* margin-left: 30%; */
+    width: 50%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 80px;
+    
+    
+}
+.widiv a{
+    margin-top: 90px;
+    margin-left: 90px;
+    display: inline-block;
+ 
+}
+/* footer */
+.dfooter{
+    text-align: center;
+}
+h4{
+    font-family:Roboto;
+    font-size: 22px;
+    font-weight: 700;
+}
+.ifooter{
+    text-align: center;
+}
+.fsec{
+    margin-bottom: 100px;
+}
